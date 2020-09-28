@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Joan Vizcaino '),
+      home: MyHomePage(title: 'Flutter Demo Joan Vizcaino 20-21'),
     );
   }
 }
